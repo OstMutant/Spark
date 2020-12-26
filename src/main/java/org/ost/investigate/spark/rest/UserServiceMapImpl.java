@@ -1,4 +1,8 @@
-package org.ost.investigate.spark;
+package org.ost.investigate.spark.rest;
+
+import org.ost.investigate.spark.rest.User;
+import org.ost.investigate.spark.rest.UserException;
+import org.ost.investigate.spark.rest.UserService;
 
 import java.util.Collection;
 import java.util.HashMap;

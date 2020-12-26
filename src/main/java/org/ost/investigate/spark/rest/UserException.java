@@ -1,4 +1,4 @@
-package org.ost.investigate.spark;
+package org.ost.investigate.spark.rest;
 
 public class UserException extends Exception {
 
